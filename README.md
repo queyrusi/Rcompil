@@ -28,6 +28,8 @@ qu'on le souhaite.
 
 EBNF
 -------------
+![ebnf1 image]("https://github.com/queyrusi/Rcompil/blob/master/ebnf1.png")
+![ebnf2 image]("https://github.com/queyrusi/Rcompil/blob/master/ebnf2.png")
 
 Syntaxes non gérées
 -------------
@@ -45,7 +47,7 @@ Contenu du paquet
 | prettyPrinter | `PrettyPrinter`       |    Implémente le visiteur |
 
 **Arborescence**
-![alt text]("file:///arbo")
+![arbo image]("https://github.com/queyrusi/Rcompil/blob/master/arbo.png")
 
 **Paquet tiers utilisé**
 
