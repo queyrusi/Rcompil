@@ -52,7 +52,8 @@ Contenu du paquet
 | prettyPrinter | `PrettyPrinter`       |    Implémente le visiteur |
 
 **Arborescence**
-![arbo image](https://github.com/queyrusi/Rcompil/blob/master/arbo.png =100x20)
+
+![arbo image](https://github.com/queyrusi/Rcompil/blob/master/arbo.png)
 
 Usage
 -------------
