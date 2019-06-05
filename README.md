@@ -5,8 +5,9 @@ Features
 
 Liens
 -------------
-Auteurs : L. Lesieur & S. Queyrut
-github perso @queyrusi
+- Auteurs : L. Lesieur & S. Queyrut
+
+- github perso @queyrusi
 
 Compilateur pour language R
 =============
