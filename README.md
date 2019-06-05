@@ -38,7 +38,7 @@ Syntaxes non gérées
 - La possibilité d'écrire une assignation sans terminer par un point-vigule.
 Pour simplifier, on impose le point-virgule suite à une assignation, comme en C.
 - On ne peut pas appeler des fonctions avec plusieurs arguments.
-- On impose les accolades aprËs les if, else, et while (non obligatoires en R).
+- On impose les accolades après les if, else, et while (non obligatoires en R).
 - Les `<=` et `>=` ne sont pas toujours reconnus par le lexer.
 
 Contenu du paquet
