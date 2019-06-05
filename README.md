@@ -5,6 +5,7 @@ Features
 
 Liens
 -------------
+Auteurs : L. Lesieur & S. Queyrut
 github perso @queyrusi
 
 Compilateur pour language R
@@ -36,8 +37,8 @@ Syntaxes non gérées
 - La possibilité d'écrire une assignation sans terminer par un point-vigule.
 Pour simplifier, on impose le point-virgule suite à une assignation, comme en C.
 - On ne peut pas appeler des fonctions avec plusieurs arguments.
-- On impose les accolades après les `if`, `else`, et `while` (non obligatoires en R).
-- Les `<=` et `>=` ne sont pas toujours reconnus par le lexer pour un raison qui nous échappe.
+- On impose les accolades aprËs les if, else, et while (non obligatoires en R).
+- Les `<=` et `>=` ne sont pas toujours reconnus par le lexer.
 
 Contenu du paquet
 -------------
@@ -52,19 +53,10 @@ Contenu du paquet
 | prettyPrinter | `PrettyPrinter`       |    Implémente le visiteur |
 
 **Arborescence**
-
 ![arbo image](https://github.com/queyrusi/Rcompil/blob/master/arbo.png)
-
-Usage
--------------
 
 **Paquet tiers utilisé**
 
 Nous utilisons termcolor pour la coloration en terminal
 
 `$ conda install termcolor`
-
-**Usage conseillé**
-
-`$ python rmain.py`
-
