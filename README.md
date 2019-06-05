@@ -56,8 +56,17 @@ Contenu du paquet
 **Arborescence**
 ![arbo image](https://github.com/queyrusi/Rcompil/blob/master/arbo.png)
 
+Usage
+-------------
+
 **Paquet tiers utilisé**
 
 Nous utilisons termcolor pour la coloration en terminal
 
 `$ conda install termcolor`
+
+**Usage recommandé**
+
+En terminal
+
+`$ python rmain.py`
